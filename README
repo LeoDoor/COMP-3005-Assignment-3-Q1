@@ -1,0 +1,11 @@
+Leo Keenan
+101222357
+Assignment 3 Q1
+
+Setup Instructions -
+1. Install psycopg2 using the command 'pip install psycopg2'
+2. Open main.py and modify the parameters as needed that will be used for connecting to the database
+3. Run the program by executing main.py using the command 'python3 main.py'
+4. You will be prompted with several options to choose from to interact with the database
+
+Video Demo Link: https://youtu.be/m4sZaSrFLa0
